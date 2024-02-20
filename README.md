@@ -1,5 +1,7 @@
 ### Hi there 👋
 I am Paweł, I hold PhD in AI.
+With 10 years of commercial experience as a developer and teamleader in several domains: Computer Vision, Predictive Modelling, Anomaly Detection, IoT, Bioinformatics
+Check out my portfolio ->
 💬 Ask me about any AI related topic - does not matter if business or academia, I will do my best to help :)
 📫 How to reach me: pawel.fic@interia.com / kajakIYD
 
